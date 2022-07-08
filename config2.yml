@@ -1,0 +1,5 @@
+my:
+  appName: "Configuration Client 2"
+  greeting: KnowledgeHut welcomes you to learn Spring boot cloud Configuration Management
+  list:
+    values: apple,google,amazon

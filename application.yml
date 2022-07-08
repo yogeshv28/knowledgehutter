@@ -1,0 +1,4 @@
+my:
+  greeting: KnowledgeHut welcomes you to learn Spring boot cloud Configuration Management
+  list:
+    values: apple,google,amazon
