@@ -1,5 +1,5 @@
 my:
-  appName: "Configuration Client 1"
+  appName: "Config Client 1"
   greeting: KnowledgeHut welcomes you to learn Spring boot cloud Configuration Management
   list:
     values: apple,google,amazon
